@@ -1,7 +1,7 @@
 # image_processing
 
 Pequeno projeto para implementar uma série de processamentos de imagem, é um projeto em andamento ainda, sendo implementado mais alguns processamentos e o método de exportar a imagem.
-O projeto está sendo feito e testado em ambiente Windows, em ambiente web ainda precisa de otimização e implementação de multiprocessamento.
+O projeto está sendo feito e testado em ambiente Windows, em ambiente web ainda precisa de otimização e implementação de multiprocessamento (por isso o loading parece quebrado no web).
 
 Tarefas ainda em desenvolvimento:
 
@@ -29,3 +29,9 @@ Cria uma esperial de Arquimedes onde a espessura da linha é afetada pela lumino
 ## Weighted Voronoi stippling
 
 Em desenvolvimento
+
+## Exemplo
+
+<https://processadordeimagem.web.app/>
+
+![Tela de exemplo](processadordeimagem.png)
